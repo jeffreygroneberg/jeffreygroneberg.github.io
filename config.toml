@@ -32,4 +32,4 @@ theme = "terminal"
       [[languages.en.menu.main]]
         identifier = "blog"
         name = "Blog"
-        url = "/blog"
+        url = "/posts"
