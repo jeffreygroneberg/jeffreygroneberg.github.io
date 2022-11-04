@@ -3,12 +3,20 @@ languageCode = 'en-us'
 title = 'Jeff @ retr0.party'
 theme = "terminal"
 
+[Permalinks]
+    post = "/:filename/"
+
 [params]
   contentTypeName = "posts"
   themeColor = "blue"
   showMenuItems = 2
   fullWidthTheme = false
   centerTheme = true
+  description = "My name is Jeff and this is my personal small minimalistic blog"
+  headline = "A page about retrogaming, tech and software"
+  shareTwitter = true
+  opengraph = true
+  dateFormat = "Mon, Jan 2, 2006"
 
   [languages]
   [languages.en]
