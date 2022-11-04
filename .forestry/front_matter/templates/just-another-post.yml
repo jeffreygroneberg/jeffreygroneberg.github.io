@@ -21,3 +21,5 @@ fields:
   - type: number
     name: id
     label: id
+pages:
+- content/posts/just-another-post.md
