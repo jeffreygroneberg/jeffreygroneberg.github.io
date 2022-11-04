@@ -1,0 +1,23 @@
+---
+label: Just another post
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: datetime
+  name: date
+  label: date
+- type: field_group
+  name: comments
+  label: comments
+  fields:
+  - type: text
+    name: host
+    label: host
+  - type: text
+    name: username
+    label: username
+  - type: number
+    name: id
+    label: id
