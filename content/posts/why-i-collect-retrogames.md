@@ -1,6 +1,5 @@
 +++
 date = 2023-02-18T23:00:00Z
-draft = true
 title = "Why I collect retrogames?"
 [comments]
 host = "mastodon.retr0.party"
