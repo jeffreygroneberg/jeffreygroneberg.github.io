@@ -3,7 +3,7 @@ date = 2023-02-18T23:00:00Z
 title = "Why I collect retrogames?"
 [comments]
 host = "mastodon.retr0.party"
-id = 123123123123123123
+id = 1231231231231220
 username = "jeff"
 
 +++
