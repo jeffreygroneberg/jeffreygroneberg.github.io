@@ -3,9 +3,9 @@ date = 2023-02-18T23:00:00Z
 draft = true
 title = "Why I collect retrogames?"
 [comments]
-host = ""
-id = nil
-username = ""
+host = "mastodon.retr0.party"
+id = 123123123123123123
+username = "jeff"
 
 +++
 ![](/uploads/76cfb0b11758d9f2.jpg)
